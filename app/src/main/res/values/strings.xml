@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApplication2</string>
+    <string name="book_name">Book Name :</string>
+    <string name="author">Author</string>
+    <string name="search_here">Search here</string>
+    <string name="search">Search</string>
+</resources>
